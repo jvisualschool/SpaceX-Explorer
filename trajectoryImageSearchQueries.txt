@@ -1,0 +1,211 @@
+50개 미션의 로켓 이동 경로 이미지 검색 쿼리 목록
+==================================================
+
+각 미션에 대해 "SpaceX [미션명] trajectory" 또는 "SpaceX [미션명] flight path"로 검색하세요.
+SpaceX CDN 이미지 (sxcontent9668.azureedge.us)를 우선적으로 찾으세요.
+
+1. CSG-3
+   검색: SpaceX CSG-3 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20CSG-3%20trajectory
+
+2. Starlink Group 15-13
+   검색: SpaceX Starlink Group 15-13 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2015-13%20trajectory
+
+3. Starlink Group 6-99
+   검색: SpaceX Starlink Group 6-99 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-99%20trajectory
+
+4. Starlink Group 6-82
+   검색: SpaceX Starlink Group 6-82 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-82%20trajectory
+
+5. Starlink Group 15-12
+   검색: SpaceX Starlink Group 15-12 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2015-12%20trajectory
+
+6. Starlink Group 6-90
+   검색: SpaceX Starlink Group 6-90 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-90%20trajectory
+
+7. Starlink Group 15-11
+   검색: SpaceX Starlink Group 15-11 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2015-11%20trajectory
+
+8. NROL-77
+   검색: SpaceX NROL-77 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20NROL-77%20trajectory
+
+9. Starlink Group 6-92
+   검색: SpaceX Starlink Group 6-92 trajectory
+   URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-92%20trajectory
+
+10. Starlink Group 11-15
+    검색: SpaceX Starlink Group 11-15 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-15%20trajectory
+
+11. Starlink Group 11-25
+    검색: SpaceX Starlink Group 11-25 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-25%20trajectory
+
+12. Starlink Group 6-95
+    검색: SpaceX Starlink Group 6-95 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-95%20trajectory
+
+13. Starlink Group 15-10
+    검색: SpaceX Starlink Group 15-10 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2015-10%20trajectory
+
+14. Starlink Group 6-86
+    검색: SpaceX Starlink Group 6-86 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-86%20trajectory
+
+15. Transporter 15 (Dedicated SSO Rideshare)
+    검색: SpaceX Transporter 15 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Transporter%2015%20trajectory
+
+16. Starlink Group 11-30
+    검색: SpaceX Starlink Group 11-30 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-30%20trajectory
+
+17. Starlink Group 6-79
+    검색: SpaceX Starlink Group 6-79 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-79%20trajectory
+
+18. Starlink Group 6-78
+    검색: SpaceX Starlink Group 6-78 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-78%20trajectory
+
+19. Starlink Group 6-94
+    검색: SpaceX Starlink Group 6-94 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-94%20trajectory
+
+20. Sentinel-6B
+    검색: SpaceX Sentinel-6B trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Sentinel-6B%20trajectory
+
+21. Starlink Group 6-85
+    검색: SpaceX Starlink Group 6-85 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-85%20trajectory
+
+22. Starlink Group 6-89
+    검색: SpaceX Starlink Group 6-89 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-89%20trajectory
+
+23. Starlink Group 6-87
+    검색: SpaceX Starlink Group 6-87 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-87%20trajectory
+
+24. Starlink Group 10-51
+    검색: SpaceX Starlink Group 10-51 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-51%20trajectory
+
+25. Starlink Group 11-14
+    검색: SpaceX Starlink Group 11-14 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-14%20trajectory
+
+26. Starlink Group 6-81
+    검색: SpaceX Starlink Group 6-81 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%206-81%20trajectory
+
+27. Bandwagon 4 (Dedicated Mid-Inclination Rideshare)
+    검색: SpaceX Bandwagon 4 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Bandwagon%204%20trajectory
+
+28. Starlink Group 11-23
+    검색: SpaceX Starlink Group 11-23 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-23%20trajectory
+
+29. Starlink Group 10-37
+    검색: SpaceX Starlink Group 10-37 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-37%20trajectory
+
+30. Starlink Group 11-21
+    검색: SpaceX Starlink Group 11-21 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-21%20trajectory
+
+31. Starlink Group 10-21
+    검색: SpaceX Starlink Group 10-21 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-21%20trajectory
+
+32. Starlink Group 11-12
+    검색: SpaceX Starlink Group 11-12 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-12%20trajectory
+
+33. SpainSat NG II
+    검색: SpaceX SpainSat NG II trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20SpainSat%20NG%20II%20trajectory
+
+34. Starlink Group 11-5
+    검색: SpaceX Starlink Group 11-5 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-5%20trajectory
+
+35. Starlink Group 11-19
+    검색: SpaceX Starlink Group 11-19 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-19%20trajectory
+
+36. Starlink Group 10-17
+    검색: SpaceX Starlink Group 10-17 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-17%20trajectory
+
+37. Starlink Group 10-52
+    검색: SpaceX Starlink Group 10-52 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-52%20trajectory
+
+38. SDA Tranche 1 Transport Layer C
+    검색: SpaceX SDA Tranche 1 Transport Layer C trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20SDA%20Tranche%201%20Transport%20Layer%20C%20trajectory
+
+39. Amazon Leo (KF-03)
+    검색: SpaceX Amazon Leo trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Amazon%20Leo%20trajectory
+
+40. Flight 11
+    검색: SpaceX Flight 11 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Flight%2011%20trajectory
+
+41. Starlink Group 11-17
+    검색: SpaceX Starlink Group 11-17 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-17%20trajectory
+
+42. Starlink Group 10-59
+    검색: SpaceX Starlink Group 10-59 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-59%20trajectory
+
+43. Starlink Group 11-39
+    검색: SpaceX Starlink Group 11-39 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-39%20trajectory
+
+44. Starlink Group 11-20
+    검색: SpaceX Starlink Group 11-20 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2011-20%20trajectory
+
+45. Starlink Group 17-11
+    검색: SpaceX Starlink Group 17-11 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2017-11%20trajectory
+
+46. Starlink Group 10-15
+    검색: SpaceX Starlink Group 10-15 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-15%20trajectory
+
+47. IMAP & others
+    검색: SpaceX IMAP trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20IMAP%20trajectory
+
+48. NROL-48
+    검색: SpaceX NROL-48 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20NROL-48%20trajectory
+
+49. Starlink Group 10-27
+    검색: SpaceX Starlink Group 10-27 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2010-27%20trajectory
+
+50. Starlink Group 17-12
+    검색: SpaceX Starlink Group 17-12 trajectory
+    URL: https://www.google.com/search?tbm=isch&q=SpaceX%20Starlink%20Group%2017-12%20trajectory
+
+참고:
+- SpaceX CDN 이미지 (sxcontent9668.azureedge.us)를 우선적으로 찾으세요
+- 고해상도 이미지를 선택하세요
+- 이미지 URL을 찾으면 trajectoryImageSearchResults.json 파일에 추가하세요
+

@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
+
+:root {
+  --font-family: 'Outfit', sans-serif;
+  --color-bg: #050510;
+  --color-primary: #3b82f6;
+  --color-text: #e2e8f0;
+  --color-glass: rgba(15, 23, 42, 0.6);
+  --color-glass-border: rgba(255, 255, 255, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  overflow: hidden;
+  /* Full screen map */
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+/* Glassmorphism Utilities */
+.glass-panel {
+  background: var(--color-glass);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--color-glass-border);
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.title-overlay {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  z-index: 10;
+  padding: 1.5rem;
+  max-width: 400px;
+}
+
+.launch-list {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.launch-item {
+  padding: 1rem;
+  border-bottom: 1px solid var(--color-glass-border);
+  transition: background 0.2s;
+  cursor: pointer;
+}
+
+.launch-item:last-child {
+  border-bottom: none;
+}
+
+.launch-item:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.launch-item.active {
+  background: rgba(59, 130, 246, 0.2);
+  border-left: 3px solid var(--color-primary);
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.1);
+  margin-right: 0.5rem;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+}
+
+/* Animations */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes glow {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 2px rgba(251, 146, 60, 0.5));
+  }
+
+  50% {
+    filter: drop-shadow(0 0 8px rgba(251, 146, 60, 1)) drop-shadow(0 0 12px rgba(251, 146, 60, 0.8)) drop-shadow(0 0 16px rgba(251, 146, 60, 0.6));
+  }
+}
+
+.rocket-glow {
+  animation: glow 1.5s ease-in-out infinite;
+}
+
+.search-btn-premium {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  text-decoration: none;
+  gap: 0.5rem;
+}
+
+.search-btn-premium:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  filter: brightness(1.2);
+}
+
+.search-btn-premium span {
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Custom Scrollbar for Modal */
+.glass-panel::-webkit-scrollbar {
+  width: 8px;
+}
+
+.glass-panel::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 10px;
+}
+
+.glass-panel::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.glass-panel::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
